@@ -1,0 +1,8 @@
+*.dll
+Components/*
+*/obj/*
+*/bin/*
+*.exe
+*.apk
+*.userprefs
+
