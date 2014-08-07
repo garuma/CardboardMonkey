@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardMonkey", "CardboardMonkey\CardboardMonkey.csproj", "{6487EFD3-FC34-456D-99DB-65640725377F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCardboard", "GoogleCardboard\GoogleCardboard.csproj", "{9D3687F8-435F-4AE2-94E0-1169BDEC04BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleCardboard", "..\..\binding\GoogleCardboard.csproj", "{9D3687F8-435F-4AE2-94E0-1169BDEC04BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

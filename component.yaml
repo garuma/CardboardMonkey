@@ -1,0 +1,13 @@
+version: 1.0.0
+name: Google Cardboard
+id: googlecardboard
+publisher: Jérémie Laval
+publisher-url: https://github.com/garuma/CardboardMonkey
+summary: Virtual reality on your smartphone - We want everyone to experience virtual reality in a simple, fun, and inexpensive way.
+libraries:
+  android: binding/bin/Release/GoogleCardboard.dll
+samples:
+  - name: "Android Sample"
+    path: samples/CardboardMonkey/CardboardMonkey.sln
+    configuration: "Release"
+screenshots: component/screenshot1.png
